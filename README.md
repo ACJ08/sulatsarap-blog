@@ -149,6 +149,6 @@ Browser
 
 ## Author
 
-Built for the **AWS Builders UST Development Committee Exam**.
+Anne Carol Jonson
 
 **Stack:** React · TypeScript · Tailwind CSS · React Router · localStorage
